@@ -1,0 +1,130 @@
+2025-12-02 05:22:19,566 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 05:22:21,684 - database.db_connection - ERROR - Error creating connection pool: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2025-12-02 05:22:21,684 - database.db_connection - ERROR - Error getting connection: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2025-12-02 05:22:21,684 - database.db_connection - ERROR - Database connection failed: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2025-12-02 05:22:58,791 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 05:23:00,914 - database.db_connection - ERROR - Error creating connection pool: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2025-12-02 05:23:00,946 - database.db_connection - ERROR - Error getting connection: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2025-12-02 05:23:00,946 - database.db_connection - ERROR - Database connection failed: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2025-12-02 05:24:41,835 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 05:24:41,925 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 05:24:41,925 - database.db_connection - ERROR - Database connection failed: Unread result found
+2025-12-02 05:30:15,598 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 05:30:15,714 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 05:30:15,714 - database.db_connection - ERROR - Database connection failed: Unread result found
+2025-12-02 05:31:13,425 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 05:31:13,518 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 05:31:13,518 - database.db_connection - ERROR - Database connection failed: Unread result found
+2025-12-02 05:54:04,918 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 05:54:04,992 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 05:54:04,992 - database.db_connection - ERROR - Database connection failed: Unread result found
+2025-12-02 05:56:37,666 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 05:56:37,724 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 05:56:37,724 - database.db_connection - INFO - Database connection test successful
+2025-12-02 05:58:08,072 - app_main - INFO - Pesanan baru dibuat: RES25120234038 (ID: 3)
+2025-12-02 05:58:22,130 - app_main - ERROR - Error running unit tests: cannot import name 'test_models' from 'tests' (D:\Salsa'files\Sertifikasi\resto-sistem\tests\__init__.py)
+2025-12-02 05:58:58,635 - app_main - ERROR - Database connection error simulated: Database connection timeout
+2025-12-02 05:59:53,070 - app_main - INFO - Status meja 1 diubah: tersedia
+2025-12-02 06:00:12,715 - app_main - INFO - Laporan PDF dibuat: laporan_2025-12-02.pdf
+2025-12-02 06:06:13,865 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 06:06:13,934 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 06:06:13,934 - database.db_connection - INFO - Database connection test successful
+2025-12-02 06:06:41,851 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 06:06:41,908 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 06:06:41,908 - database.db_connection - INFO - Database connection test successful
+2025-12-02 06:06:51,834 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 06:06:51,897 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 06:06:51,897 - database.db_connection - INFO - Database connection test successful
+2025-12-02 06:07:19,823 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 06:07:19,912 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 06:07:19,912 - database.db_connection - INFO - Database connection test successful
+2025-12-02 06:08:49,927 - app_main - INFO - Status meja 1 diubah: dipesan
+2025-12-02 06:09:36,632 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 06:09:36,663 - database.db_connection - INFO - Database connection test successful
+2025-12-02 06:10:00,492 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 06:10:00,515 - database.db_connection - ERROR - Query execution failed: 1062 (23000): Duplicate entry 'DELETED_0812998' for key 'no_telepon'
+2025-12-02 06:10:00,519 - database.db_connection - INFO - Database connection test successful
+2025-12-02 06:10:46,454 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 06:10:46,454 - database.db_connection - ERROR - Query execution failed: 1062 (23000): Duplicate entry '081299887766' for key 'no_telepon'
+2025-12-02 06:10:46,466 - database.db_connection - INFO - Database connection test successful
+2025-12-02 06:38:49,451 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 06:38:49,544 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 06:38:49,544 - database.db_connection - INFO - Database connection test successful
+2025-12-02 07:36:47,980 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 07:36:48,110 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 07:36:48,110 - database.db_connection - INFO - Database connection test successful
+2025-12-02 07:37:27,781 - app_main - ERROR - Error membaca pelanggan: 'NoneType' object is not subscriptable
+2025-12-02 07:38:05,910 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 07:38:05,995 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 07:38:05,999 - database.db_connection - INFO - Database connection test successful
+2025-12-02 07:38:09,501 - app_main - ERROR - Error membaca pelanggan: 'NoneType' object is not subscriptable
+2025-12-02 07:39:18,611 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 07:39:18,713 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 07:39:18,714 - database.db_connection - INFO - Database connection test successful
+2025-12-02 07:39:30,021 - app_main - ERROR - Error membaca pelanggan: 'NoneType' object is not subscriptable
+2025-12-02 07:41:11,334 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 07:41:11,437 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 07:41:11,437 - database.db_connection - INFO - Database connection test successful
+2025-12-02 07:41:14,764 - app_main - ERROR - Error membaca pelanggan: 'NoneType' object is not subscriptable
+2025-12-02 07:42:48,210 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 07:42:48,331 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 07:42:48,331 - database.db_connection - INFO - Database connection test successful
+2025-12-02 07:43:07,071 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 07:43:07,181 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 07:43:07,181 - database.db_connection - INFO - Database connection test successful
+2025-12-02 07:44:02,052 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 07:44:02,172 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 07:44:02,172 - database.db_connection - INFO - Database connection test successful
+2025-12-02 07:44:15,210 - app_main - ERROR - Error membaca pelanggan: 'NoneType' object is not subscriptable
+2025-12-02 07:57:13,460 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 07:57:13,560 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 07:57:13,560 - database.db_connection - INFO - Database connection test successful
+2025-12-02 07:57:16,860 - app_main - ERROR - Error membaca pelanggan: 'NoneType' object is not subscriptable
+2025-12-02 07:57:24,024 - app_main - ERROR - Error di main menu: 
+2025-12-02 08:01:56,059 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 08:01:56,157 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 08:01:56,159 - database.db_connection - INFO - Database connection test successful
+2025-12-02 08:03:15,418 - app_main - INFO - Pesanan baru dibuat: RES25120210717 (ID: 9)
+2025-12-02 08:03:24,915 - app_main - ERROR - Error lihat pesanan: 'NoneType' object is not subscriptable
+2025-12-02 08:03:56,653 - app_main - ERROR - Error generate laporan: 'NoneType' object is not subscriptable
+2025-12-02 08:04:09,742 - app_main - ERROR - Database connection error simulated: Database connection timeout
+2025-12-02 08:09:32,372 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 08:09:32,498 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 08:09:32,500 - database.db_connection - INFO - Database connection test successful
+2025-12-02 08:10:09,212 - app_main - ERROR - Error lihat pesanan: 'NoneType' object is not subscriptable
+2025-12-02 08:13:35,938 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 08:13:36,065 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 08:13:36,065 - database.db_connection - INFO - Database connection test successful
+2025-12-02 08:13:46,886 - app_main - ERROR - Error di main menu: 'SistemRestoran' object has no attribute 'lihat_pesanan'
+2025-12-02 08:14:09,764 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 08:14:09,874 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 08:14:09,874 - database.db_connection - INFO - Database connection test successful
+2025-12-02 08:14:11,618 - app_main - ERROR - Error lihat pesanan: 'NoneType' object is not subscriptable
+2025-12-02 08:15:05,378 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 08:15:05,477 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 08:15:05,478 - database.db_connection - INFO - Database connection test successful
+2025-12-02 08:15:07,248 - app_main - ERROR - Error di main menu: 'SistemRestoran' object has no attribute 'lihat_pesanan'
+2025-12-02 08:15:30,657 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 08:15:30,747 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 08:15:30,747 - database.db_connection - INFO - Database connection test successful
+2025-12-02 08:15:32,548 - app_main - ERROR - Error lihat pesanan: 'NoneType' object is not subscriptable
+2025-12-02 08:18:58,407 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 08:18:58,508 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 08:18:58,508 - database.db_connection - INFO - Database connection test successful
+2025-12-02 08:21:14,378 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 08:21:14,488 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 08:21:14,488 - database.db_connection - INFO - Database connection test successful
+2025-12-02 08:22:40,839 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 08:22:40,934 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 08:22:40,937 - database.db_connection - INFO - Database connection test successful
+2025-12-02 08:26:07,488 - app_main - INFO - Status meja 3 diubah: dipesan
+2025-12-02 08:28:02,888 - app_main - ERROR - Error generate laporan: 'NoneType' object is not subscriptable
+2025-12-02 08:36:40,457 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 08:36:40,560 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 08:36:40,560 - database.db_connection - INFO - Database connection test successful
+2025-12-02 08:53:06,927 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 08:53:07,044 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 08:53:07,044 - database.db_connection - INFO - Database connection test successful
+2025-12-02 09:52:07,683 - app_main - INFO - Sistem Restoran diinisialisasi
+2025-12-02 09:52:07,864 - database.db_connection - INFO - Connection pool created successfully
+2025-12-02 09:52:07,867 - database.db_connection - INFO - Database connection test successful
